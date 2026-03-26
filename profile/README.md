@@ -1,9 +1,29 @@
+<div align="center">
+
 # ♠️ Rivix.AI
 
-AI-powered poker analysis platform. We build tools that help players make better decisions at the table.
+**Next-gen AI tools for serious poker players.**
 
-🌐 [pokerlyze.com](https://www.pokerlyze.com/) — Automated leak detection, GTO solver lab, and live range training.
+Plug your leaks. Maximize equity. Play smarter.
+
+[![Website](https://img.shields.io/badge/pokerlyze.com-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.pokerlyze.com/)
+
+</div>
 
 ---
 
+### 🔬 What We Build
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 Leak Detection | Pinpoint recurring mistakes in sizing, aggression, and range construction |
+| 📊 GTO Lab | Solver-backed study with range grids and trainer reps |
+| 🎯 Live Training | Real-time range recognition drills without leaving the lab |
+
+---
+
+<div align="center">
+
 Built with [Ziyi Wang](https://github.com/s889702) and [Xinyi Wang](https://github.com/xyww289)
+
+</div>
