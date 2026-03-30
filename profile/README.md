@@ -24,6 +24,5 @@ Plug your leaks. Maximize equity. Play smarter.
 
 <div align="center">
 
-Built with [Ziyi Wang](https://github.com/s889702) and [Xinyi Wang](https://github.com/xyww289)
-
+Built with Ziyi, Xinyi, and Zhentao
 </div>
